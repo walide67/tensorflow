@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<product>
+<id>A_8997020610536</id>
+<sku>8997020610536</sku>
+<title><![CDATA[ ACCELERA ]]></title>
+<description><![CDATA[ ]]></description>
+<suplier><![CDATA[ACCELERA]]></suplier>
+<url><![CDATA[/pneu-u/at-70-8997020610536-pr]]></url>
+<image><![CDATA[https://e-leclerc.scene7.com/is/image/gtinternet/8997020610536_Accelera_1?op_sharpen=1&resmode=bilin]]></image>
+<universe>
+<name><![CDATA[AUTO]]></name>
+<image><![CDATA[https://e-leclerc.scene7.com/is/image/gtinternet/logo_vendupar_auto]]></image>
+</universe>
+<categories><category_1><![CDATA[Pneu]]></category_1>
+
+</categories>
+<prices>
+<price>12</price>
+</prices>
+<promos>
+</promos>
+<properties>
+<property id="univers" name="Univers"><![CDATA[pneu]]></property>
+<property id="auto_seal" name="Auto seal"><![CDATA[]]></property>
+<property id="auto_image" name="Auto image"><![CDATA[https://e-leclerc.scene7.com/is/image/gtinternet/8997020610536_Accelera_1?op_sharpen=1&resmode=bilin]]></property>
+<property id="auto_cloute" name="Auto cloute"><![CDATA[]]></property>
+<property id="auto_marque" name="Auto marque"><![CDATA[ACCELERA]]></property>
+<property id="auto_radial" name="Auto radial"><![CDATA[R]]></property>
+<property id="auto_saison" name="Auto saison"><![CDATA[Summer]]></property>
+<property id="auto_hauteur" name="Auto hauteur"><![CDATA[70]]></property>
+<property id="auto_largeur" name="Auto largeur"><![CDATA[235.0000]]></property>
+<property id="auto_produit" name="Auto produit"><![CDATA[A/T 70]]></property>
+<property id="auto_diametre" name="Auto diametre"><![CDATA[15.0000]]></property>
+<property id="auto_run_flat" name="Auto run flat"><![CDATA[]]></property>
+<property id="auto_cloutable" name="Auto cloutable"><![CDATA[]]></property>
+<property id="auto_prix_vente" name="Auto prix vente"><![CDATA[]]></property>
+<property id="auto_asymetrique" name="Auto asymetrique"><![CDATA[]]></property>
+<property id="auto_directionnel" name="Auto directionnel"><![CDATA[]]></property>
+<property id="auto_indice_charge" name="Auto indice charge"><![CDATA[103]]></property>
+<property id="auto_type_vehicule" name="Auto type vehicule"><![CDATA[AllTerrain]]></property>
+<property id="auto_indice_vitesse" name="Auto indice vitesse"><![CDATA[S]]></property>
+<property id="auto_marquage_3pmsf" name="Auto marquage 3pmsf"><![CDATA[]]></property>
+<property id="auto_libelle_produit" name="Auto libelle produit"><![CDATA[A/T 70]]></property>
+<property id="auto_categorie_marque" name="Auto categorie marque"><![CDATA[ECOBUDGET]]></property>
+<property id="auto_grille_tarifaire" name="Auto grille tarifaire"><![CDATA[tranche2]]></property>
+<property id="auto_description_courte" name="Auto description courte"><![CDATA[<script type="text/javascript" src="//media.flixfacts.com/js/loader.js" data-flix-distributor="5950" data-flix-language="fr" data-flix-brand="" data-flix-mpn="" data-flix-ean="8997020610536" data-flix-sku="8997020610536" data-flix-button="flix-minisite" data-flix-inpage="flix-inpage" data-flix-button-image="" data-flix-fallback-language="" data-flix-price=""> </script>]]></property>
+</properties>
+<properties_facet>
+<property id="promo_codart" name="promo_codart"/>
+<property id="promo_codavt" name="promo_codavt"/>
+<property id="promo_codepromo" name="promo_codepromo"/>
+<property id="promo_codlot" name="promo_codlot"/>
+<property id="promo_codmon" name="promo_codmon"/>
+<property id="promo_codoptie" name="promo_codoptie"/>
+<property id="promo_codvtl" name="promo_codvtl"/>
+<property id="promo_comop" name="promo_comop"/>
+<property id="promo_datedebemi" name="promo_datedebemi"/>
+<property id="promo_datedefinemi" name="promo_datedefinemi"/>
+<property id="promo_dtdebut" name="promo_dtdebut"/>
+<property id="promo_dtfin" name="promo_dtfin"/>
+<property id="promo_exclu_web" name="promo_exclu_web"/>
+<property id="promo_freqach" name="promo_freqach"/>
+<property id="promo_freqmont" name="promo_freqmont"/>
+<property id="promo_libactmagop" name="promo_libactmagop"/>
+<property id="promo_libellepromo" name="promo_libellepromo"/>
+<property id="promo_libfic" name="promo_libfic"/>
+<property id="promo_liblot" name="promo_liblot"/>
+<property id="promo_libop" name="promo_libop"/>
+<property id="promo_montant" name="promo_montant"/>
+<property id="promo_qteach" name="promo_qteach"/>
+<property id="promo_qtearlot" name="promo_qtearlot"/>
+<property id="promo_qtearmaxatt" name="promo_qtearmaxatt"/>
+<property id="promo_qteartachmax" name="promo_qteartachmax"/>
+<property id="promo_qteartachmin" name="promo_qteartachmin"/>
+<property id="promo_qteartmaxcri" name="promo_qteartmaxcri"/>
+<property id="promo_quoele" name="promo_quoele"/>
+<property id="promo_quolst" name="promo_quolst"/>
+<property id="promo_typcli" name="promo_typcli"/>
+<property id="promo_typcri" name="promo_typcri"/>
+<property id="promo_typlst" name="promo_typlst"/>
+<property id="promo_typvtl" name="promo_typvtl"/>
+<property id="promo_vitesse" name="promo_vitesse"/>
+<property id="promo_vitop" name="promo_vitop"/>
+
+</properties_facet>
+<properties_num>
+<property id="en_stock" name="En stock">0</property>
+</properties_num>
+</product>
+
+</products>
