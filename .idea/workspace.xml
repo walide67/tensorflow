@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6677f81-2ae8-4b2f-8124-ff0e0ac6d22a" name="Default" comment="update text classification model" />
+    <list default="true" id="c6677f81-2ae8-4b2f-8124-ff0e0ac6d22a" name="Default" comment="update text classification model">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduitsAUTO_full_00.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduitsHIGHTECH_full_00.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduitsMaCave_PROD_00.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduitsSPORT_20181030_010000_01.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_0.xml_00.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_46.xml_03.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_46.xml_04.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_46.xml_05.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_46.xml_06.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_46.xml_07.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_46.xml_08.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_49.xml_00.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_49.xml_01.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_49.xml_02.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/base/fichesproduits_CULTUREL__20181107_94.xml_02.xml" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/product_categorization_model.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="37" />
+              <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="37" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -95,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -269,7 +286,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.122023806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -769,7 +786,7 @@
     <entry file="file://$PROJECT_DIR$/product_categorization_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="37" />
+          <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="37" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
